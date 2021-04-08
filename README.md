@@ -6,4 +6,4 @@
 ### Editor de texto usado: ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-#### Além de ser um projeto Responsivo para celulares e computadores!
+#### Template desenvolvido por Adriel Cavalcante!
