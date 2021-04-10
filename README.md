@@ -6,4 +6,4 @@
 ### Editor de texto usado: ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-#### Template desenvolvido por Adriel Cavalcante!
+#### Template desenvolvido por Adriel Cavalcante: https://github.com/AdrielCavalcante
